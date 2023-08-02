@@ -21,8 +21,8 @@ List<Anime> trendsData = [
 ];
 
 List<Anime> recentsData = [
-  Anime(name: 'Rezero', number: 1, poster: 'assets/images/Screenshot 2022-04-08 201455.png', score: 8),
-  Anime(name: 'Dr. Stone ', number: 2, poster: 'assets/images/gigachad.jpg', score: 7),
+  Anime(name: 'Rezero', number: 1, poster: 'assets/images/rezero.jpg', score: 8),
+  Anime(name: 'Dr. Stone ', number: 2, poster: 'assets/images/dr.stone.png', score: 7),
   Anime(name: 'One Piece', number: 3, poster: 'assets/images/onepiece.jpg', score: 8),
   Anime(name: 'Tokyo Ghoul', number: 4, poster: 'assets/images/tokyo.jpg', score: 9),
   Anime(name: 'Steins Gate', number: 5, poster: 'assets/images/steins.jpg', score: 9),

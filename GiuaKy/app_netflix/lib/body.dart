@@ -98,7 +98,7 @@ class Body extends StatelessWidget {
                 ElevatedButton(
                   onPressed: () {},
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors.red,
+                    backgroundColor: Colors.white,
                     padding: const EdgeInsets.only(
                         top: 10, bottom: 10, right: 30, left: 25),
                   ),
@@ -106,13 +106,13 @@ class Body extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Icon(
-                        Icons.window,
-                        color: Colors.white,
+                        Icons.play_arrow,
+                        color: Colors.red,
                       ),
                       Text(
                         "Play",
                         style: TextStyle(
-                          color: Colors.white,
+                          color: Colors.red,
                           fontSize: 18,
                           fontFamily: "Montserrat",
                         ),
